@@ -1,7 +1,0 @@
-package hust.uiux.year20231.apartment;
-
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello world!");
-    }
-}
